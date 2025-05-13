@@ -18,7 +18,7 @@ This portfolio highlights my projects, skills, and experiences in the field of w
 - HTML
 - CSS
 - JavaScript
-- [Any other frameworks or libraries you used, e.g., React, Bootstrap, etc.]
+- [Other frameworks or libraries you used, e.g., React, Bootstrap, etc.]
 
 ## Installation
 
